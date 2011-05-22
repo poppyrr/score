@@ -10,6 +10,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = F445E5F51387CC5E003FB028 /* score */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* score */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* score */,
+		);
 		codeSenseManager = F445E60E1387CC73003FB028 /* Code sense */;
 		executables = (
 			F445E5F51387CC5E003FB028 /* score */,
@@ -20,9 +23,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					533,
+					706,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -35,6 +38,22 @@
 					PBXFileDataSource_Errors_ColumnID,
 					PBXFileDataSource_Warnings_ColumnID,
 					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					646,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
 				);
 			};
 			PBXPerProjectTemplateStateSaveDate = 327666782;
