@@ -59,11 +59,6 @@ c000000004DD794DE00000000000020FE
 t1305973982
 s8446
 
-N/Users/poppy/Documents/code/ios/score/README
-c000000004DD7B24A0000000000000025
-t1305981514
-s37
-
 N/Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app
 t1305974002
 s204
@@ -83,10 +78,6 @@ s982
 N/Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app/PkgInfo
 t1305973992
 s8
-
-N/Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app/README
-t2
-s0
 
 N/Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app/score
 t1305974001
@@ -164,9 +155,6 @@ r1
 xCompileXIB
 x/Users/poppy/Documents/code/ios/score/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib327666792#327666799#0(0"0(0#0#52"/Users/poppy/Documents/code/ios/score/MainWindow.xib8611733504#565"    cd /Users/poppy/Documents/code/ios/score    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app/MainWindow.nib /Users/poppy/Documents/code/ios/score/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCpResource build/Debug-iphonesimulator/score.app/README README
-r0
 
 CGenerateDSYMFile /Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app.dSYM /Users/poppy/Documents/code/ios/score/build/Debug-iphonesimulator/score.app/score
 s327666801.902561
